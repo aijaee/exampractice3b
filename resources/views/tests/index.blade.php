@@ -8,7 +8,6 @@
     <div class="container mt-4">
         <div class="table-responsive" role="region" tabindex="0">
             <table class="table table-striped table-bordered">
-                <caption>Table 1</caption>
                 <thead class="table-dark">
                     <tr>
                         <th>ID</th>
